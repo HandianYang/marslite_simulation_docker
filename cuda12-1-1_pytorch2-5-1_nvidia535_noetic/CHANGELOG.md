@@ -1,4 +1,4 @@
-Version 1.1.0 (Nov 19, 2024)
+Version 1.1.1 (Nov 19, 2024)
 ----------------------------
 
 * Changed `eigen3` path from `/usr/local/include/eigen3` to `/usr/include/eigen3`

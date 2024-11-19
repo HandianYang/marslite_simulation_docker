@@ -1,3 +1,9 @@
+Version 1.1.0 (Nov 19, 2024)
+----------------------------
+
+* Changed `eigen3` path from `/usr/local/include/eigen3` to `/usr/include/eigen3`
+* Installed `tree` package
+
 Version 1.1.0 (Nov 18, 2024)
 ----------------------------
 

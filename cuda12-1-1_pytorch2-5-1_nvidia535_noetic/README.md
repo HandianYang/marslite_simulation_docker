@@ -1,5 +1,7 @@
 # marslite_simulation:`cuda12.1.1-pytorch2.5.1-nvidia535-noetic`
 
+## [Note] This Docker image tag is DEPRECATED! Use `cuda12.1.1-pytorch2.5.1-noetic` instead!
+
 ## Prerequisites (of your device)
 * NVIDIA GPU along with driver version >=535 (tested well on GeForce RTX 3060)
 * `Docker` installed

@@ -1,7 +1,7 @@
 # marslite_simulation:`cuda12.1.1-pytorch2.5.1-nvidia535-noetic`
 
 ## Prerequisites (of your device)
-* NVIDIA GPU along with driver version >=535
+* NVIDIA GPU along with driver version >=535 (tested well on GeForce RTX 3060)
 * `Docker` installed
 * `nvidia-docker2` installed
 

@@ -1,3 +1,12 @@
+## [Note] This Docker image tag is DEPRECATED! Use `cuda12.1.1-pytorch2.5.1-noetic` instead!
+
+Version 1.1.2 (Nov 22, 2024)
+----------------------------
+
+* Added alias: `here = 'export ROS_HOSTNAME=localhost && export ROS_MASTER_URI=http://localhost:11311'`
+* Added alias: `mars = 'export ROS_MASTER_URI=http://192.168.50.77:11311'`
+
+
 Version 1.1.1 (Nov 19, 2024)
 ----------------------------
 

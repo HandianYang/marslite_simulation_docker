@@ -1,3 +1,18 @@
+Version 1.2.0 (Jan 07, 2025)
+----------------------------
+
+New features:
+* Support object detection using D435 cameras
+* Support point-cloud building using D435 cameras
+
+Main changes:
+* Installed `ros-$ROS_DISTRO-realsense2-camera` for Realsense D435i camera
+* Installed `ros-$ROS_DISTRO-rtabmap*` for point cloud building
+* Created a Python3.10-based virtual environment for object detection, with the following packages installed:
+  - `pyrealsense2`
+  - `ultralytics` (for YOLO)
+  - `supervision`
+
 Version 1.1.0 (Nov 25, 2024)
 ----------------------------
 
